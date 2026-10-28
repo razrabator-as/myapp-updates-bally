@@ -1,8 +1,8 @@
 
 {
-  "versionCode": 8,
-  "versionName": "1.6",
+  "versionCode": 9,
+  "versionName": "1.6.1",
   "apkUrl": "https://github.com/andreinova7777-AS/myapp-updates-bally/releases/latest/download/app-release.apk",
   "changelog": "исправлены ошибки",
-  "sha256": "044F26B496A5A530E8122D7E16C28B29D5CA72EE019CC759D049A63F622469D4"
+  "sha256": "C1E1BD54F09C08B12E75B739D688801861CC39A9751108B8F75B9EB42792A305"
 }
