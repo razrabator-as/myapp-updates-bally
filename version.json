@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.9",
+  "versionCode": 13,
+  "versionName": "2.0",
   "apkUrl": "https://github.com/razrabator-as/myapp-updates-bally/releases/latest/download/app-release.apk",
-  "changelog": "Новый адрес обновлений.",
-  "sha256": "790addbe140ca5b9f6e8a54b8e8cb0517f3594c3c30b45030ae1fc1e22e99005"
+  "changelog": "Раздел 'Одноклассники' (обмен карточками-файлами и сравнение), единый стиль кнопок, свёрнутые блоки. ",
+  "sha256": "94f0fe9a9fae3dca71ee2e7c4e55bccde6d0d81b271566cadcce5b809d72953c"
 }
