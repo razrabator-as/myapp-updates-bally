@@ -1,8 +1,8 @@
 
 {
-  "versionCode": 10,
-  "versionName": "1.7",
+  "versionCode": 11,
+  "versionName": "1.8",
   "apkUrl": "https://github.com/andreinova7777-AS/myapp-updates-bally/releases/latest/download/app-release.apk",
   "changelog": "Меню добавления предмета по кнопке-плитке, упрощённое окно загрузки оценок, подсказка по вводу оценок при первом входе.",
-  "sha256": "375264f54d141299666fde9b12740dfddb7a5a4fb1985845ff5d240fde465453"
+  "sha256": "2b516623ce47012996e03f972c57ed5cc155e6583d88713c5e7cdcdd3d1a38f2"
 }
