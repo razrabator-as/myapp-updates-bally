@@ -1,8 +1,8 @@
 
 {
-  "versionCode": 7,
-  "versionName": "1.5",
+  "versionCode": 8,
+  "versionName": "1.6",
   "apkUrl": "https://github.com/andreinova7777-AS/myapp-updates-bally/releases/latest/download/app-release.apk",
-  "changelog": "Обновление без Google Play, виджет с диаграммами, клавиатура не закрывает поля.",
-  "sha256": "2FAF3178C3FD6D98328270950474F4040626E9A36172557820AE5EAA28E1A271"
+  "changelog": "исправлены ошибки",
+  "sha256": "da6104a06e5a41f6abed43a1ab0417e2edef62bce386d7b0d5c82d0d5c22a3e2"
 }
