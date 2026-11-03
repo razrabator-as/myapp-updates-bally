@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "2.0",
+  "versionCode": 14,
+  "versionName": "2.4",
   "apkUrl": "https://github.com/razrabator-as/myapp-updates-bally/releases/latest/download/app-release.apk",
-  "changelog": "Раздел 'Одноклассники' (обмен карточками-файлами и сравнение), единый стиль кнопок, свёрнутые блоки. ",
-  "sha256": "94f0fe9a9fae3dca71ee2e7c4e55bccde6d0d81b271566cadcce5b809d72953c"
+  "changelog": "Новый дизайн и нижняя панель, смена режима по PIN или подтверждению, классы по ступеням и все буквы, соревнование детей у родителя.  ",
+  "sha256": "9c7ce82be140b09b2256cf44e11e661ef521cfc7dd34102b6f8aaa34f0f21dc3"
 }
