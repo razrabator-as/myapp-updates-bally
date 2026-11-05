@@ -1,7 +1,7 @@
 {
   "versionCode": 17,
   "versionName": "2.4",
-  "apkUrl": "https://github.com/razrabator-as/myapp-updates-nsderevne/releases/latest/download/app-release.apk",
+  "apkUrl": "https://github.com/razrabator-as/myapp-updates-bally/releases/latest/download/app-release.apk",
   "changelog": "Новый дизайн и нижняя панель, смена режима по PIN или подтверждению, классы по ступеням и все буквы, соревнование детей у родителя.  ",
   "sha256": "9c7ce82be140b09b2256cf44e11e661ef521cfc7dd34102b6f8aaa34f0f21dc3"
 }
