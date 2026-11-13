@@ -1,7 +1,7 @@
 {
   "versionCode": 19,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/razrabator-as/myapp-updates-naderevne/releases/latest/download/app-debug.apk",
+  "apkUrl": "https://github.com/razrabator-as/myapp-updates-naderevne/releases/latest/download/app-releas.apk",
   "sha256": "e0d480666735dd6790e0fba4ffb0d3b12f74f49181ddf15eb8a2688a3b6ac78d",
   "notes": "Открытие на текущей четверти, напоминания о пропущенных четвертях, автоитог четверти с правкой, цветная кнопка"
 }
