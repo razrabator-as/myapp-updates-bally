@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "2.4",
-  "apkUrl": "https://github.com/razrabator-as/myapp-updates-bally/releases/latest/download/app-release.apk",
-  "changelog": "Новый дизайн и нижняя панель, смена режима по PIN или подтверждению, классы по ступеням и все буквы, соревнование детей у родителя.  ",
-  "sha256": "9c7ce82be140b09b2256cf44e11e661ef521cfc7dd34102b6f8aaa34f0f21dc3"
+  "versionCode": 19,
+  "versionName": "2.5",
+  "apkUrl": "https://github.com/razrabator-as/myapp-updates-naderevne/releases/latest/download/app-debug.apk",
+  "sha256": "e0d480666735dd6790e0fba4ffb0d3b12f74f49181ddf15eb8a2688a3b6ac78d",
+  "notes": "Открытие на текущей четверти, напоминания о пропущенных четвертях, автоитог четверти с правкой, цветная кнопка"
 }
